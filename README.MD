@@ -1,10 +1,7 @@
 # Slice — Desktop App Releases
 
 This repo only holds built installers for **Slice**, the desktop app for
-[slicesocial.netlify.app](https://slicesocial.netlify.app). There's no source
-code here — the app's source lives in the main `loop` repo. This repo exists
-so the installer binaries don't bloat that repo's git history.
-
+[slicesocial.netlify.app](https://slicesocial.netlify.app).
 ## Download
 
 Grab the latest installer from the [Releases](../../releases) page:
